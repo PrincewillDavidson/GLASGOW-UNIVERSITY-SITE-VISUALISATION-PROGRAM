@@ -1,0 +1,2 @@
+# GLASGOW-UNIVERSITY-SITE-VISUALISATION-PROGRAM
+This script presents a detailed analysis of the Mobile Event System for the University. It is accompied with a project document (Mobile Event Systems for University – Data Analysis and Talk Visualisation Model for the Events Website).  Please make reference to this project document as it gives a detailed explaination of the results provide by the program in this script.
